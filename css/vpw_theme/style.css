@@ -1,0 +1,146 @@
+/*F
+
+Theme Name: topweb.com.vn
+Theme URI: http://topweb.com.vn
+Author: https://topweb.com.vn
+Author URI: http://topweb.com.vn
+Description: Description
+Version: 1.0.0
+Text Domain: http://topweb.com.vn
+Email : topweb.com.vn@gmail.com
+Tags:topweb.com.vn
+
+--------------------------------------------------------------*/
+
+#mega-menu-primary > li.mega-menu-item:first-child {
+    border-left: 1px solid #00ab4e;
+}
+.slider_videos .img_videos img{
+    width: 100%
+}
+.more_col_newspaper a, .more_article_col a {
+    padding: 10px 30px 8px;
+    background: #00ab4e none;
+    color: #FFF;
+    font-weight: 700;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -o-border-radius: 6px;
+    display: inline-block;
+    margin: 20px 0px 30px;
+}
+.more_col_newspaper{
+    margin-top: 0px !important
+}
+.breadcrumbs{
+    padding: 0px
+}
+.breadcrumbs li{
+    list-style: none;
+    display: inline-block;
+}
+.separator{
+    padding: 0px 5px
+}
+footer .footer_sidebar  .menu{
+    margin:0px;
+    padding: 0px
+}
+footer .footer_sidebar .menu li{
+    float: left;
+    margin: 0 15px 0 0;
+}
+footer .footer_sidebar .menu li a{
+    color: #FFF;
+}
+.slider .owl-nav{
+    display: none;
+}
+.amia-landing-page.landing-page-18917{
+    margin-bottom: 0px !important
+}
+
+
+#responsive-form{
+	max-width:600px /*-- change this to get your desired form width --*/;
+	margin:0 auto;
+        width:100%;
+}
+.form-row{
+	width: 100%;
+}
+.column-half, .column-full{
+	float: left;
+	position: relative;
+	padding: 0.65rem;
+	width:100%;
+	-webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+ 
+/**---------------- Media query ----------------**/
+@media only screen and (min-width: 48em) { 
+	.column-half{
+		width: 50%;
+	}
+}
+
+
+.wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	-webkit-box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+	      box-sizing: border-box
+}
+.wpcf7 input[type="text"]:focus{
+	background: #fff;
+}
+.wpcf7-submit{
+	float: right;
+	background: #CA0002;
+	color: #fff;
+	text-transform: uppercase;
+	border: none;
+	padding: 8px 20px;
+	cursor: pointer;
+}
+.wpcf7-submit:hover{
+	background: #ff0000;
+}
+span.wpcf7-not-valid-tip{
+	text-shadow: none;
+	font-size: 12px;
+	color: #fff;
+	background: #ff0000;
+	padding: 5px;
+}
+div.wpcf7-validation-errors { 
+	text-shadow: none;
+	border: transparent;
+	background: #f9cd00;
+	padding: 5px;
+	color: #9C6533;
+	text-align: center;
+	margin: 0;
+	font-size: 12px;
+}
+div.wpcf7-mail-sent-ok{
+	text-align: center;
+	text-shadow: none;
+	padding: 5px;
+	font-size: 12px;
+	background: #59a80f;
+	border-color: #59a80f;
+	color: #fff;
+	margin: 0;
+}
