@@ -1,0 +1,162 @@
+2017-12-26T09:14:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T09:15:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T09:15:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T09:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T09:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T11:56:32+00:00 CRITICAL Call to undefined function get_object()
+
+2017-12-26T11:58:47+00:00 CRITICAL Call to undefined function get_object()
+
+2017-12-26T12:47:56+00:00 CRITICAL Call to undefined function the_pos_thumbnail_url()
+
+2017-12-26T12:48:22+00:00 CRITICAL Call to undefined function the_pos_thumbnail_url()
+
+2017-12-26T12:48:36+00:00 CRITICAL Call to undefined function the_exceprt()
+
+2017-12-26T12:49:21+00:00 CRITICAL Call to a member function has_attributes() on string
+
+2017-12-27T02:55:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T02:56:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T03:43:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T09:40:49+00:00 CRITICAL Call to undefined function do_aoction()
+
+2017-12-27T10:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T10:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T10:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T10:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-27T12:54:42+00:00 CRITICAL Call to a member function get_price() on null
+
+2017-12-28T01:11:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-28T02:25:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-28T03:18:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T02:05:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T03:04:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T03:07:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T03:08:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T03:23:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T04:17:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T04:17:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T04:18:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T04:52:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-30T04:54:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-07T02:32:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-07T03:50:37+00:00 CRITICAL Call to a member function have_posts() on null
+
+2018-01-07T05:03:09+00:00 CRITICAL Call to a member function get_sale_price() on null
+
+2018-01-07T07:57:15+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-01-08T08:52:32+00:00 CRITICAL Call to a member function have_posts() on null
+
+2018-01-08T09:02:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-08T09:02:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-08T09:02:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-08T09:02:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-08T09:20:13+00:00 CRITICAL Call to a member function get_sale_price() on null
+
+2018-01-08T09:22:30+00:00 CRITICAL Call to a member function get_sale_price() on null
+
+2018-01-11T03:27:39+00:00 CRITICAL Call to undefined function add_menu_page()
+
+2018-01-11T03:27:40+00:00 CRITICAL Call to undefined function add_menu_page()
+
+2018-01-11T03:28:09+00:00 CRITICAL Call to undefined function add_menu_page()
+
+2018-01-11T03:32:09+00:00 CRITICAL Call to undefined function add_menu_page()
+
+2018-01-11T03:33:06+00:00 CRITICAL Call to undefined function add_menu_page()
+
+2018-01-13T09:22:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:32:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:32:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:32:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:36:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:38:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T01:58:44+00:00 CRITICAL Call to a member function have_posts() on null
+
+2018-01-14T02:06:57+00:00 CRITICAL Call to a member function have_posts() on null
+
+2018-01-14T03:54:09+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-01-14T04:02:48+00:00 CRITICAL Call to undefined function the_field()
+
+2018-01-14T04:02:50+00:00 CRITICAL Call to undefined function the_field()
+
+2018-01-14T04:03:22+00:00 CRITICAL Call to undefined function the_field()
+
+2018-01-14T04:03:24+00:00 CRITICAL Call to undefined function the_field()
+
+2018-01-14T04:03:47+00:00 CRITICAL Call to undefined function the_field()
+
+2018-01-14T08:40:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T08:41:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T08:41:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T09:21:58+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-01-14T09:22:25+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-01-14T09:22:30+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-01-14T09:22:58+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-01-14T10:32:44+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-01-14T10:34:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-14T10:35:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-15T01:34:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-21T13:10:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-21T14:38:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-21T14:38:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-21T14:39:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-21T14:58:56+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-01-21T15:23:34+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-01-21T15:33:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
