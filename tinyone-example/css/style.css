@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+header {
+    background-color: #fcdb00;
+    height: 740px;
+}
+
+.root {
+    min-width: 70%;
+    padding-top: 52px;
+    margin: 0 15%;
+}
+
+.root .logo {
+    padding: 8px;
+}
+
+.root .brand-name {
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto 0;
+}
+
+.menu {
+    margin: auto;
+    margin-right: 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.menu a {
+    margin-left: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.ipad-image {
+    float: right;
+    margin-top: 50px;
+    margin-right: 22px;
+}
+
+.header-content-os {
+    min-height: 520px;
+    margin-bottom: 45px;
+}
+
+.header-title {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.header-adv {
+    margin-left: -8px;
+    padding-top: 125px;
+}
+
+.header-content {
+    font-size: 16px;
+    color: #555555;
+}
+
+.header-mini-content {
+    margin-bottom: 23px;
+    font-size: 20px;
+    color: #313841;
+}
+
+.os-phone {
+    margin-top: 45px;
+}
+
+.header-slide {
+    padding: 0 auto;
+}
+
+.slide-button {
+    margin: 0 auto;
+    width: 4%;
+}
+
+.main {
+    margin-top: 105px;
+    margin-bottom: 75px;
+}
+
+.main-big-title {
+    font-weight: bold;
+    font-size: 32px;
+    padding-top: 13px;
+}
+
+.main-small-title {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.feature {
+    margin-bottom: 90px;
+}
+
+.feature-grid {
+    margin-top: 90px;
+}
+
+.icon-feature {
+    padding: 0;
+    margin-right: 9px;
+}
+
+.feature-title {
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.icon-feature img {
+    margin-top: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-des {
+    margin-left: 20%;
+}
+
+footer {
+    background-color: #010101;
+    min-height: 770px;
+}
+
+.footer-title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #fcdb00;
+    padding-top: 43px;
+}
+
+.footer-sub-title {
+    color: #898989;
+    font-size: 20px;
+    margin-top: 18px;
+}
+
+.form button {
+    background-color: #fcdb00;
+    font-size: 16px;
+    font-weight: bold;
+    width: 125px;
+    height: 50px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.form input {
+    height: 50px;
+    width: 580px;
+    border-radius: 5px;
+    text-indent: 20px;
+    margin-top: 45px;
+    margin-bottom: 80px;
+}
+
+.social-icon img {
+    margin-right: 33px;
+    margin-bottom: 135px;
+}
+
+.footer-contact {
+    float: left;
+    margin-right: 100px;
+    color: white;
+}
+
+.footer-contact a {
+    text-decoration: none;
+    color: white;
+}
+
+
